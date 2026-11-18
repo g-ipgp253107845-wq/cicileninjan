@@ -1,0 +1,10 @@
+{
+  "name": "Remix SmartPack",
+  "description": "SmartPack — Smart Mathematical Luggage Planner integrating 3D geometry, camera recognition, AutoPack bin-packing optimization, and airline compliance.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
